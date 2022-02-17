@@ -1,0 +1,6 @@
+{
+  "name": "rotary-encoder",
+  "version": "1.0.0",
+  "description": "Kaluma library for Rotary Encoder (KY-040)",
+  "main": "index.js"
+}
